@@ -7,6 +7,22 @@ font-family: 'Lexend Deca', sans-serif
 	padding: 0;
 	box-sizing: border-box;
 }
+header{
+	position: fixed;
+	height: 30px;
+	width: 700px;;
+	background-color: white;
+	margin-top: -450px;
+	align-items: center;
+	justify-content: center;
+	display: flex;
+}
+header>a{
+	text-decoration: none;
+	padding: 10px;
+	margin: 600px;
+	text-align: right;
+}
 main {
 
 	width: 60%;
